@@ -132,4 +132,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2, ans3, ans4)
 
 st.divider()
-st.write("นางสาว พัทธ์ธ๊ราณัท สิทธิวิรยะกุล เลขที่ 28 ม.4/3")
+st.write("นางสาว พัทธ์ธีราณัท สิทธิวิรยะกุล เลขที่ 28 ม.4/3")
